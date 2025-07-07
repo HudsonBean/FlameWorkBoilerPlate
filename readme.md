@@ -11,3 +11,4 @@ npm i -D rbxts-transformer-flamework@latest
 ```
 npx rbxtsc -w
 ```
+Test
