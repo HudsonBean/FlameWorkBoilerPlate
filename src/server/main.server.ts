@@ -1,3 +1,10 @@
-import { makeHello } from "shared/module";
+// IMPORTS
+import { Flamework } from "@flamework/core";
 
-print(makeHello("main.server.ts"));
+// PRELOAD ALL PATHS
+Flamework.addPaths("src/server/services");
+Flamework.addPaths("src/server/components");
+Flamework.addPaths("src/shared/components");
+
+// IGNITE 🔥
+Flamework.ignite();
