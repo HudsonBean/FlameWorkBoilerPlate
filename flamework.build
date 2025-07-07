@@ -1,6 +1,12 @@
 {
 	"version": 1,
 	"flameworkVersion": "1.3.1",
-	"identifiers": {},
+	"identifiers": {
+		"testingenviroment:out/shared/clientController@MyController": "shared/clientController@MyController",
+		"testingenviroment:out/shared/service@MyService": "shared/service@MyService",
+		"testingenviroment:out/shared/services/service@MyService": "shared/services/service@MyService",
+		"testingenviroment:out/shared/controller@MyController": "shared/controller@MyController",
+		"testingenviroment:out/shared/controllers/controller@MyController": "shared/controllers/controller@MyController"
+	},
 	"metadata": {}
 }
