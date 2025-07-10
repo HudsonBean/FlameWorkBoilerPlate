@@ -1,6 +1,6 @@
 # This is a default flamework + roblox-ts project!
 ## Make sure to run these commands to initialize:
-### First initialize roblox-ts
+### First initialize roblox-ts:
 ```
 npm init roblox-ts
 ```
